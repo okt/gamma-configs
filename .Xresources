@@ -1,66 +1,31 @@
-! --- ~/.Xresources ------------------------------------------------------------
-! ------------------------------------------------------------------------------
-! --- generated with 4bit Terminal Color Scheme Designer -----------------------
-! ------------------------------------------------------------------------------
-! --- http://ciembor.github.com/4bit -------------------------------------------
-! ------------------------------------------------------------------------------
+! Color-scheme : Relic Dark
+! Author       : stark <stark@openmailbox.org>
 
-! --- special colors ---
+*background: #1D2426
+urxvt*background: #1D2426
+*foreground: #8FA388
+urxvt*foreground: #8FA388
 
-*background: #0d1926
-*foreground: #d6f5dd
+! Alternate foreground
+!*foreground: #AB9C71
 
-! --- standard colors ---
+*cursorColor: #BE5E1E
 
-! black
-*color0: #000000
+*color0:  #39474A
+*color1:  #986345
+*color2:  #788249
+*color3:  #9B6A46
+*color4:  #3E5951
+*color5:  #B9924A
+*color6:  #5d796a
+*color7:  #977D5E
+*color8:  #4C5F63
+*color9:  #B07350
+*color10: #869151
+*color11: #AF6B42
+*color12: #567A6E
+*color13: #D69D55
+*color14: #668574
+*color15: #AB9C71
 
-! bright_black
-*color8: #242424
-
-! red
-*color1: #743f46
-
-! bright_red
-*color9: #d0a8ae
-
-! green
-*color2: #46743f
-
-! bright_green
-*color10: #aed0a8
-
-! yellow
-*color3: #746d3f
-
-! bright_yellow
-*color11: #d0cba8
-
-! blue
-*color4: #3f4674
-
-! bright_blue
-*color12: #a8aed0
-
-! magenta
-*color5: #6d3f74
-
-! bright_magenta
-*color13: #cba8d0
-
-! cyan
-*color6: #3f746d
-
-! bright_cyan
-*color14: #a8d0cb
-
-! white
-*color7: #d9d9d9
-
-! bright_white
-*color15: #ffffff
-
-
-! ------------------------------------------------------------------------------
-! --- end of terminal colors section -------------------------------------------
-! ------------------------------------------------------------------------------
+! vim: ft=xdefaults
